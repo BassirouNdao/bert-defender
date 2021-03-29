@@ -1,0 +1,12 @@
+python: can't open file 'bert_discriminator.py': [Errno 2] No such file or directory
+./bert-defender/run_gcp_bert_defender.sh: line 26: --task_name: command not found
+./bert-defender/run_gcp_bert_defender.sh: line 27: --do_train: command not found
+./bert-defender/run_gcp_bert_defender.sh: line 28: --do_lower_case: command not found
+./bert-defender/run_gcp_bert_defender.sh: line 29: --data_dir: command not found
+./bert-defender/run_gcp_bert_defender.sh: line 30: --bert_model: command not found
+./bert-defender/run_gcp_bert_defender.sh: line 31: --max_seq_length: command not found
+./bert-defender/run_gcp_bert_defender.sh: line 32: --train_batch_size: command not found
+./bert-defender/run_gcp_bert_defender.sh: line 33: --learning_rate: command not found
+./bert-defender/run_gcp_bert_defender.sh: line 34: --num_train_epochs: command not found
+./bert-defender/run_gcp_bert_defender.sh: line 35: --output_dir: command not found
+bash: run_gcp_bert_defender.sh: command not found
